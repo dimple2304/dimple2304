@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Full-stack web projects (Node.js, Express, MongoDB)I’m looking to collaborate on JavaScript or backend-based applications<br>I’m looking to collaborate on web & JavaScript projects<br>I’m looking for help with Backend optimization & scalable logic<br>I’m currently learning advanced javascript<br>Ask me about Java, JS, Node.js, MongoDB, project structure<br>I love understanding how tech works internally, not just using it
+I’m currently working on Full-stack web projects (Node.js, Express, MongoDB).<br>I’m looking to collaborate on JavaScript or backend-based applications.<br>I’m looking to collaborate on web & JavaScript projects.<br>I’m looking for help with Backend optimization & scalable logic.<br>I’m currently learning advanced javascript<br>Ask me about Java, JS, Node.js, MongoDB, project structure.<br>I love understanding how tech works internally, not just using it.
 
 
 ## 🌐 Socials:
