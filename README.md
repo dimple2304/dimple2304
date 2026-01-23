@@ -3,10 +3,10 @@ Hi, I’m Dimple, an MCA student and software developer with a strong foundation
 
 I enjoy writing clean, maintainable code and following structured development practices using Git and GitHub. I believe in learning by building, improving code quality, and staying consistent with hands-on development.
 
-Currently focused on:
-"Data Structures & core CS fundamentals"
-"Full-stack project development"
-"Writing scalable and readable code"
+Currently focused on:<br>
+"Data Structures & core CS fundamentals"<br>
+"Full-stack project development"<br>
+"Writing scalable and readable code"<br>
 
 
 ## 🌐 Socials:
