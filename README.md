@@ -1,5 +1,12 @@
 # 💫 About Me:
-I’m currently working on Full-stack web projects (Node.js, Express, MongoDB).<br>I’m looking to collaborate on JavaScript or backend-based applications.<br>I’m looking to collaborate on web & JavaScript projects.<br>I’m looking for help with Backend optimization & scalable logic.<br>I’m currently learning advanced javascript<br>Ask me about Java, JS, Node.js, MongoDB, project structure.<br>I love understanding how tech works internally, not just using it.
+Hi, I’m Dimple, an MCA student and software developer with a strong foundation in Java and JavaScript. I focus on building practical, real-world applications while continuously strengthening my data structures and problem-solving skills.
+
+I enjoy writing clean, maintainable code and following structured development practices using Git and GitHub. I believe in learning by building, improving code quality, and staying consistent with hands-on development.
+
+Currently focused on:
+"Data Structures & core CS fundamentals"
+"Full-stack project development"
+"Writing scalable and readable code"
 
 
 ## 🌐 Socials:
